@@ -2,11 +2,16 @@
 
 Welcome to the AI Weather App! This project demonstrates the integration of the OpenAI API with a React-based frontend to create an interactive weather application. The app allows users to input a country name and receive real-time temperature data along with weather conditions for that specific location. The AI component enhances user interaction by processing natural language queries and providing intuitive responses.
 
+
+
+<img width="928" alt="latest one" src="https://github.com/user-attachments/assets/81102717-7ac1-45f5-b4f0-491ed06df74f">
+
+
+
 ## Features
 
 - **OpenAI API Integration**: Understands natural language queries to fetch relevant weather data.
 - **React-Based Frontend**: Dynamic and responsive UI built using React.
-- **User Authentication**: Secure user-based authentication with tokens stored in a ServiceWorker.
 - **Task-Based API Configuration**: Efficient handling of specific user queries.
 - **Interactive User Experience**: Explains weather conditions in simple language and suggests appropriate attire based on the weather.
 
@@ -14,15 +19,12 @@ Welcome to the AI Weather App! This project demonstrates the integration of the 
 
 - **Frontend Framework**: React
 - **Backend/API Integration**: OpenAI API
-- **Authentication and Security**: ServiceWorker
 - **Build Tools**: Vite
 - **Package Management**: npm (Node Package Manager)
 - **Programming Languages**: JavaScript
 
 
 ## Getting Started
-
-<img width="908" alt="wheather api" src="https://github.com/user-attachments/assets/ed2881d9-9afb-436e-bf06-91b8743e1baf">
 
 
 ### Prerequisites
@@ -36,8 +38,8 @@ To run this project, you will need to have the following installed on your local
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ai-weather-app.git
-   cd ai-weather-app
+   gh repo clone sakshi8707/Weather-API-Project
+   cd Weather-API-Project
    npm install
    npm run dev
 
