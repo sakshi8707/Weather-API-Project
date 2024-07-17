@@ -43,6 +43,11 @@ To run this project, you will need to have the following installed on your local
    npm install
    npm run dev
 
+
+
+### Contributions
+
+   Contributions are welcome! Please fork this repository and submit pull requests with any enhancements or bug fixes.
    
  ### Project Structure
 
@@ -64,8 +69,6 @@ ai-weather-app/
 ├── README.md
 
 
-###Contributions
-Contributions are welcome! Please fork this repository and submit pull requests with any enhancements or bug fixes.
 
 
 
