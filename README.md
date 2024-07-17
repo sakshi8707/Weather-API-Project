@@ -53,7 +53,8 @@ To run this project, you will need to have the following installed on your local
 
  
   The repository is structured as follows:
-
+  
+```bash
 ai-weather-app/
 ├── public/
 │   ├── index.html
