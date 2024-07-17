@@ -22,6 +22,9 @@ Welcome to the AI Weather App! This project demonstrates the integration of the 
 
 ## Getting Started
 
+<img width="908" alt="wheather api" src="https://github.com/user-attachments/assets/ed2881d9-9afb-436e-bf06-91b8743e1baf">
+
+
 ### Prerequisites
 
 To run this project, you will need to have the following installed on your local machine:
